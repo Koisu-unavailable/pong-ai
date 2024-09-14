@@ -3,7 +3,9 @@ namespace pong
 {
     public enum ScreenEdges
     {
-        top = 1,
-        bottom = 375
+        top = 0,
+        bottom = 480,
+        left = 0,
+        right = 800
     }
 }
