@@ -36,3 +36,4 @@ C:\Users\jalau\pong-ai\pong\pong\pong\obj\Debug\net6.0-windows\pong.pdb
 C:\Users\jalau\pong-ai\pong\pong\pong\obj\Debug\net6.0-windows\pong.genruntimeconfig.cache
 C:\Users\jalau\pong-ai\pong\pong\pong\obj\Debug\net6.0-windows\ref\pong.dll
 C:\Users\jalau\pong-ai\pong\pong\pong\bin\Debug\net6.0-windows\Content\paddle.xnb
+C:\Users\jalau\pong-ai\pong\pong\pong\bin\Debug\net6.0-windows\Content\score.xnb
