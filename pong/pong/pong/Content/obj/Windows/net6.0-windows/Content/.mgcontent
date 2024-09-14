@@ -5,8 +5,10 @@
   <Config />
   <SourceFiles>
     <File>C:/Users/jalau/pong-ai/pong/pong/pong/Content/blue  rectanngkle.png</File>
+    <File>C:/Users/jalau/pong-ai/pong/pong/pong/Content/score.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File>paddle.png</File>
+    <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
